@@ -1,3 +1,6 @@
+# WARNING:
+This is ***not yet*** functional.
+
 # Purpose:
 [learnXinYminutes](learnxinyminutes.com) is a great resource for checking out new languages and tools. However I found myself wanting to read the actual `code` inside nvim.
 
